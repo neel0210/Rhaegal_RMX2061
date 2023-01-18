@@ -13,7 +13,7 @@ KERNEL_DEFCONFIG=falcon_defconfig
 
 DEVICE=reatoll
 
-VERSION=srb5-v1.0
+VERSION=srb7-v1.0
 
 DATE=$(TZ=Asia/Kolkata date +"%Y%m%d-%T")
 
